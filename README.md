@@ -1,6 +1,6 @@
 # Yani's Portfolio
 
-# [Project 1: Data Analytics in Healthcare] (https://github.com/yani-iben/Data-Analytics-in-Healthcare)
+# [Project 1: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
 
 This was a semester-long project I worked on for my Machine Learning class. 
 
