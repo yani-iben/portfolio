@@ -31,3 +31,4 @@ This was a semester-long project I worked on for my Machine Learning class.
   - Interpreted visualizations to support data-driven recommendations for operational improvements.  
   - Integrated insights from visual analysis with SQL query results for comprehensive reporting.  
 
+#[Project 3: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
