@@ -33,3 +33,20 @@ This was a semester-long project I worked on for my Machine Learning class.
 
 # [Project 3: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
 
+This project was inspired by the need to understand audience engagement with Emily in Paris and inform storytelling decisions for its upcoming season. By analyzing the show's transcripts and audience emotions, we aimed to uncover the factors influencing satisfaction and predict viewer ratings. Through advanced analytics and predictive modeling, the project provided actionable insights to guide the creative process.
+
+- **Analyzed Show Transcripts for Sentiment and Themes**
+  - Conducted sentiment analysis and topic modeling on Emily in Paris show transcripts to identify dominant themes and sentiments.
+  - Generated a Word Cloud to visualize recurring concepts and key emotional drivers.
+  - Performed emotional analysis to overcome limitations of traditional sentiment analysis, uncovering nuanced audience responses.
+
+- **Developed Predictive Models to Inform Ratings**
+  - Built and evaluated predictive models, including time series regression and Random Forest, to predict IMDb ratings based on   emotional data.
+  - Identified that fear and suspense drove higher ratings, while disgust indicated conflict and joy, trust, and surprise shaped overall satisfaction.
+  - Optimized Random Forest as the most accurate model, demonstrating strong predictive performance.
+
+- **Visualized Emotional and Thematic Insights**
+  - Designed visualizations, such as emotion breakdowns and Word Clouds, to communicate findings to non-technical stakeholders.
+  - Mapped sentiment and emotional trends over time to highlight changes in viewer perceptions.
+  - Combined visual insights with predictive analytics to support actionable recommendations for season 5 storytelling.
+
