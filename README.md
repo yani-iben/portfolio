@@ -49,4 +49,8 @@ This project was inspired by the need to understand audience engagement with Emi
   - Designed visualizations, such as emotion breakdowns and Word Clouds, to communicate findings to non-technical stakeholders.
   - Mapped sentiment and emotional trends over time to highlight changes in viewer perceptions.
   - Combined visual insights with predictive analytics to support actionable recommendations for season 5 storytelling.
+ 
+# [Project 4: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
+
+This project was a semester long project focusing on healthcare and education spending across OECD countries. Along with the data visualization aspect, this project involved final presentations as well as a research report. Ultimately, my time incorporated analysis from R to develop a policy recommendation regarding allocating healthcare spending to boost survival rate.
 
