@@ -1,6 +1,8 @@
 # Yani's Portfolio
 
-# [Project 1: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
+# [Project 1: Clustering Online Retail Customers](https://github.com/yani-iben/online-retail-clustering-practice)
+
+#[Project 2: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
 
 This was a semester-long project I worked on for my Machine Learning class. 
 
@@ -11,7 +13,7 @@ This was a semester-long project I worked on for my Machine Learning class.
 
 
 
-# [Project 2: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
+# [Project 3: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
 
 - **Relational Database Creation for Wilted Lotus**  
   - Designed and implemented a relational database in SQL to support hotel operations and analytics.  
@@ -31,7 +33,7 @@ This was a semester-long project I worked on for my Machine Learning class.
   - Interpreted visualizations to support data-driven recommendations for operational improvements.  
   - Integrated insights from visual analysis with SQL query results for comprehensive reporting.  
 
-# [Project 3: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
+# [Project 4: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
 
 This project was inspired by the need to understand audience engagement with Emily in Paris and inform storytelling decisions for its upcoming season. By analyzing the show's transcripts and audience emotions, we aimed to uncover the factors influencing satisfaction and predict viewer ratings. Through advanced analytics and predictive modeling, the project provided actionable insights to guide the creative process.
 
@@ -50,7 +52,7 @@ This project was inspired by the need to understand audience engagement with Emi
   - Mapped sentiment and emotional trends over time to highlight changes in viewer perceptions.
   - Combined visual insights with predictive analytics to support actionable recommendations for season 5 storytelling.
  
-# [Project 4: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
+# [Project 5: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
 
 This project was a semester long project focusing on healthcare and education spending across OECD countries. Along with the data visualization aspect, this project involved final presentations as well as a research report. Ultimately, my time incorporated analysis from R to develop a policy recommendation regarding allocating healthcare spending to boost survival rate.
 
