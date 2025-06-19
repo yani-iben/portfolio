@@ -1,9 +1,11 @@
 # Yani's Portfolio
 
 # [Project 1: Clustering Online Retail Customers](https://github.com/yani-iben/online-retail-clustering-practice)
+* This project applies customer segmentation techniques on the Online Retail dataset provided by the UCI Machine Learning Repository.
+* By leveraging exploratory data analysis, data cleaning, outlier detection, and K-Means clustering, the project identifies key customer clusters and generates tailored business recommendations based on their purchasing behavior.
 
-#[Project 2: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
-
+#**[Project 2: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
+**
 This was a semester-long project I worked on for my Machine Learning class. 
 
 * Real world data of over 100,000 instances was taken from 130 U.S hospitals. The dataset included various attributes including patient diagnoses and if the patient was readmitted.
