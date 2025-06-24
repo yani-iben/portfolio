@@ -3,6 +3,13 @@
 # [Project 1: Clustering Online Retail Customers](https://github.com/yani-iben/online-retail-clustering-practice)
 * This project applies customer segmentation techniques on the Online Retail dataset provided by the UCI Machine Learning Repository.
 * By leveraging exploratory data analysis, data cleaning, outlier detection, and K-Means clustering, the project identifies key customer clusters and generates tailored business recommendations based on their purchasing behavior.
+* Skills Demonstrated
+- Exploratory Data Analysis (EDA): Visualized patterns in customer behavior, transaction trends, and purchasing frequency.
+- Data Cleaning: Removed null values, duplicate entries, and erroneous data to ensure high-quality inputs.
+- Outlier Detection: Identified and separated outlier customers to avoid skewing clustering results.
+- K-Means Clustering:
+- Applied K-Means to non-outlier customer data to detect meaningful groupings based on Recency, Frequency, and Monetary value (RFM).
+Ran K-Means separately on outlier segments to investigate high-impact customer clusters.
 
 # [Project 2: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
 This was a semester-long project I worked on for my Machine Learning class. 
