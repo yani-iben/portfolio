@@ -5,7 +5,7 @@
 * By leveraging exploratory data analysis, data cleaning, outlier detection, and K-Means clustering, the project identifies key customer clusters and generates tailored business recommendations based on their purchasing behavior.
 
 
-*** Skills Demonstrated:**
+Skills Demonstrated:
 
 - Exploratory Data Analysis (EDA): Visualized patterns in customer behavior, transaction trends, and purchasing frequency.
 - Data Cleaning: Removed null values, duplicate entries, and erroneous data to ensure high-quality inputs.
