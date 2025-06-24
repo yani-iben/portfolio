@@ -3,6 +3,7 @@
 # [Project 1: Clustering Online Retail Customers](https://github.com/yani-iben/online-retail-clustering-practice)
 * This project applies customer segmentation techniques on the Online Retail dataset provided by the UCI Machine Learning Repository.
 * By leveraging exploratory data analysis, data cleaning, outlier detection, and K-Means clustering, the project identifies key customer clusters and generates tailored business recommendations based on their purchasing behavior.
+
 \
 * Skills Demonstrated:
 \
