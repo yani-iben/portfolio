@@ -12,9 +12,15 @@ This was a semester-long project I worked on for my Machine Learning class.
 * Cluster analysis identified key personas likely to be readmitted
 * Project culminated in a series of business-focused recommendations to address hospital readmissions amongst diabetes patients.
 
+# [Project 3: Telecommunications Customer Churn Analysis](https://github.com/yani-iben/Customer-Churn-Decision-Tree-Analysis)
 
+This dataset simulates customer behavior for a fictional telecommunications company. It contains demographic information, account details, services subscribed to, and whether the customer ultimately churned (stopped using the service) or not. The data is synthetically generated but designed to reflect realistic patterns often found in telecom churn scenarios.
 
-# [Project 3: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
+The purpose of the project is to predict whether a customer will churn or not. THe main model used was a Decision Tree model. In addition, the project includes feature importance analysis based on information gain.
+
+* Utilized a Decision Tree model within Python
+
+# [Project 4: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
 
 - **Relational Database Creation for Wilted Lotus**  
   - Designed and implemented a relational database in SQL to support hotel operations and analytics.  
@@ -34,7 +40,11 @@ This was a semester-long project I worked on for my Machine Learning class.
   - Interpreted visualizations to support data-driven recommendations for operational improvements.  
   - Integrated insights from visual analysis with SQL query results for comprehensive reporting.  
 
-# [Project 4: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
+# [Project 5: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
+
+This project was a semester long project focusing on healthcare and education spending across OECD countries. Along with the data visualization aspect, this project involved final presentations as well as a research report. Ultimately, my time incorporated analysis from R to develop a policy recommendation regarding allocating healthcare spending to boost survival rate.
+
+# [Project 6: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
 
 This project was inspired by the need to understand audience engagement with Emily in Paris and inform storytelling decisions for its upcoming season. By analyzing the show's transcripts and audience emotions, we aimed to uncover the factors influencing satisfaction and predict viewer ratings. Through advanced analytics and predictive modeling, the project provided actionable insights to guide the creative process.
 
@@ -53,7 +63,5 @@ This project was inspired by the need to understand audience engagement with Emi
   - Mapped sentiment and emotional trends over time to highlight changes in viewer perceptions.
   - Combined visual insights with predictive analytics to support actionable recommendations for season 5 storytelling.
  
-# [Project 5: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
 
-This project was a semester long project focusing on healthcare and education spending across OECD countries. Along with the data visualization aspect, this project involved final presentations as well as a research report. Ultimately, my time incorporated analysis from R to develop a policy recommendation regarding allocating healthcare spending to boost survival rate.
 
