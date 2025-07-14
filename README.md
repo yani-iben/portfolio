@@ -14,7 +14,13 @@ Skills Demonstrated:
 - Applied K-Means to non-outlier customer data to detect meaningful groupings based on Recency, Frequency, and Monetary value (RFM).
 Ran K-Means separately on outlier segments to investigate high-impact customer clusters.
 
-# [Project 2: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
+## [Project 2: Banking Campaign Prediction with XGBoost(https://github.com/yani-iben/Banking-XGBoost/blob/main/README.md)]
+
+This project uses **XGBoost** to predict whether a customer will subscribe to a term deposit following a Portuguese bank’s marketing campaign. Built with `Python`, `scikit-learn`, `TargetEncoder`, and `XGBClassifier`, the pipeline processes campaign and demographic data to classify outcomes.
+
+Feature importance analysis highlights key drivers of campaign success, including **customer age** and **employment variation rate**.
+
+# [Project 3: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
 This was a semester-long project I worked on for my Machine Learning class. 
 
 * Real world data of over 100,000 instances was taken from 130 U.S hospitals. The dataset included various attributes including patient diagnoses and if the patient was readmitted.
@@ -22,7 +28,7 @@ This was a semester-long project I worked on for my Machine Learning class.
 * Cluster analysis identified key personas likely to be readmitted
 * Project culminated in a series of business-focused recommendations to address hospital readmissions amongst diabetes patients.
 
-# [Project 3: Telecommunications Customer Churn Analysis](https://github.com/yani-iben/Customer-Churn-Decision-Tree-Analysis)
+# [Project 4: Telecommunications Customer Churn Analysis](https://github.com/yani-iben/Customer-Churn-Decision-Tree-Analysis)
 
 This dataset simulates customer behavior for a fictional telecommunications company. It contains demographic information, account details, services subscribed to, and whether the customer ultimately churned (stopped using the service) or not. The data is synthetically generated but designed to reflect realistic patterns often found in telecom churn scenarios.
 
@@ -30,7 +36,7 @@ The purpose of the project is to predict whether a customer will churn or not. T
 
 * Utilized a Decision Tree model within Python
 
-# [Project 4: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
+# [Project 5: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
 
 - **Relational Database Creation for Wilted Lotus**  
   - Designed and implemented a relational database in SQL to support hotel operations and analytics.  
@@ -50,11 +56,11 @@ The purpose of the project is to predict whether a customer will churn or not. T
   - Interpreted visualizations to support data-driven recommendations for operational improvements.  
   - Integrated insights from visual analysis with SQL query results for comprehensive reporting.  
 
-# [Project 5: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
+# [Project 6: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
 
 This project was a semester long project focusing on healthcare and education spending across OECD countries. Along with the data visualization aspect, this project involved final presentations as well as a research report. Ultimately, my time incorporated analysis from R to develop a policy recommendation regarding allocating healthcare spending to boost survival rate.
 
-# [Project 6: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
+# [Project 7: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
 
 This project was inspired by the need to understand audience engagement with Emily in Paris and inform storytelling decisions for its upcoming season. By analyzing the show's transcripts and audience emotions, we aimed to uncover the factors influencing satisfaction and predict viewer ratings. Through advanced analytics and predictive modeling, the project provided actionable insights to guide the creative process.
 
