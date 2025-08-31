@@ -14,7 +14,7 @@ Skills Demonstrated:
 - Applied K-Means to non-outlier customer data to detect meaningful groupings based on Recency, Frequency, and Monetary value (RFM).
 Ran K-Means separately on outlier segments to investigate high-impact customer clusters.
 
-# [Project 2: Banking Campaign Prediction with XGBoost](https://github.com/yani-iben/Banking-XGBoost/blob/main/%20XGBoost%20Bank%20Marketing.ipynb)
+# [Project 2: Banking Campaign Prediction with XGBoost]([https://github.com/yani-iben/Banking-XGBoost/blob/main/%20XGBoost%20Bank%20Marketing.ipynb](https://github.com/yani-iben/Banking-XGBoost/tree/main)
 
 This project uses **XGBoost** to predict whether a customer will subscribe to a term deposit following a Portuguese bank’s marketing campaign. Built with `Python`, `scikit-learn`, `TargetEncoder`, and `XGBClassifier`, the pipeline processes campaign and demographic data to classify outcomes.
 
