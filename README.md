@@ -1,4 +1,4 @@
-# Hi, I'm Yani 👋
+# Hi, I'm Yani 
 
 Data Scientist & Analytics Engineer specializing in full-stack ETL pipelines, cloud data warehousing, machine learning architectures, and data-driven decision-making. My work bridges the gap between complex statistical modeling and institutional strategy, with a deep focus on economic mobility, nonprofit operational efficiency, and predictive analytics.
 
