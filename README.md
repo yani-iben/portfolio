@@ -51,14 +51,3 @@ Data Scientist & Analytics Engineer specializing in full-stack ETL pipelines, cl
 
 ---
 
-## Core Database Architecture & Global Visualization
-
-### [Relational Database Engineering & Operational Query Tuning](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
-* **Core Stack:** SQL (PostgreSQL/MySQL), R (ggplot2), Relational Schema Design
-* Architected a clean, fully normalization-compliant relational database schema for a hospitality enterprise, implementing tight primary/foreign key cascading integrity rules.
-* Authored complex analytical queries to expose supply chain delays, trace housekeeping inefficiencies, and correlate guest feedback trends against repeat customer metrics.
-
-###  [OECD Healthcare Allocation & Visual Policy Project](https://github.com/yani-iben/WDI-Healthcare)
-* **Core Stack:** R Programming, World Development Indicators (WDI) Dataset, Visual Analysis
-* Conducted a comprehensive longitudinal study examining healthcare and educational spending across OECD nations.
-* Transformed multi-variate macroeconomic indices into digestible visual data narratives in R, producing policy briefs aimed at boosting country-wide medical survival rates.
