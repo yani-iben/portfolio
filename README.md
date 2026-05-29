@@ -1,83 +1,64 @@
-# Yani's Portfolio
+# Hi, I'm Yani 👋
 
-# [Project 1: Clustering Online Retail Customers](https://github.com/yani-iben/online-retail-clustering-practice)
-* This project applies customer segmentation techniques on the Online Retail dataset provided by the UCI Machine Learning Repository.
-* By leveraging exploratory data analysis, data cleaning, outlier detection, and K-Means clustering, the project identifies key customer clusters and generates tailored business recommendations based on their purchasing behavior.
+Data Scientist & Analytics Engineer specializing in full-stack ETL pipelines, cloud data warehousing, machine learning architectures, and data-driven decision-making. My work bridges the gap between complex statistical modeling and institutional strategy, with a deep focus on economic mobility, nonprofit operational efficiency, and predictive analytics.
 
+---
 
-Skills Demonstrated:
+## Featured Production Systems & Public Policy Impact
 
-- Exploratory Data Analysis (EDA): Visualized patterns in customer behavior, transaction trends, and purchasing frequency.
-- Data Cleaning: Removed null values, duplicate entries, and erroneous data to ensure high-quality inputs.
-- Outlier Detection: Identified and separated outlier customers to avoid skewing clustering results.
-- K-Means Clustering:
-- Applied K-Means to non-outlier customer data to detect meaningful groupings based on Recency, Frequency, and Monetary value (RFM).
-Ran K-Means separately on outlier segments to investigate high-impact customer clusters.
+### [Volunteer Retention Cloud Analytics & Intelligence Engine](https://github.com/yani-iben/Data-Driven-Strategy-for-Reducing-Churn)
+* **Core Stack:** Python, PostgreSQL (Neon Cloud Cluster), Streamlit Cloud, Plotly WebGL (Scattergl), SQLAlchemy
+* Engineered an enterprise-grade analytics platform that processes **137k+ live activity records** to expose structural churn and lifecycle decay across distributed regional chapters.
+* Designed dynamic, layered memory caching loops (`@st.cache_data`) and database indices to reduce heavy cross-join network scanning latency by 90%, transitioning a slow local framework into a zero-lag live executive command center.
 
-# [Project 2: Banking Campaign Prediction with XGBoost](https://github.com/yani-iben/Banking-XGBoost/tree/main)
+### [Virginia Nonprofit Sector Economic Impact Analysis](https://github.com/yani-iben/virginia-nonprofit-economic-analysis)
+* **Core Stack:** Python (Pandas, Scikit-Learn), SQL, IRS 990 Core Databases
+* Served as the Data Science Research Lead analyzing complex IRS 990 financial datasets to mathematically model the economic footprint and labor force contributions of Virginia's nonprofit sector.
+* Delivered data-driven evidence presented directly to state lawmakers at the Virginia General Assembly, serving as a critical statistical foundation to support the successful passage of House Bill 353.
 
-This project uses **XGBoost** to predict whether a customer will subscribe to a term deposit following a Portuguese bank’s marketing campaign. Built with `Python`, `scikit-learn`, `TargetEncoder`, and `XGBClassifier`, the pipeline processes campaign and demographic data to classify outcomes.
+---
 
-Feature importance analysis highlights key drivers of campaign success, including **customer age** and **employment variation rate**.
+## Machine Learning & Predictive Modeling
 
-# [Project 3: Data Analytics in Healthcare](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
-This was a semester-long project I worked on for my Machine Learning class. 
+### [Clinical Machine Learning: Predicting Hospital Readmissions](https://github.com/yani-iben/Data-Analytics-in-Healthcare)
+* **Core Stack:** Python, Random Forest, Gradient Boosting, SVM, KNN, Scikit-Learn
+* Implemented a robust predictive pipeline over a dataset containing **100,000+ patient records** across 130 U.S. healthcare facilities.
+* Evaluated multiple algorithmic approaches to identify diabetic patient personas at high risk of readmission, culminating in strategic, business-focused clinical recommendations to optimize hospital resource allocation.
 
-* Real world data of over 100,000 instances was taken from 130 U.S hospitals. The dataset included various attributes including patient diagnoses and if the patient was readmitted.
-* The best model was Random Forest, however other models including Boosting, K-Nearest Neighbor, and Support Vector Machine were used.
-* Cluster analysis identified key personas likely to be readmitted
-* Project culminated in a series of business-focused recommendations to address hospital readmissions amongst diabetes patients.
+### [Banking Campaign Predictive Pipeline](https://github.com/yani-iben/Banking-XGBoost/tree/main)
+* **Core Stack:** Python, XGBoost, Scikit-Learn, TargetEncoder, Feature Importance Mapping
+* Engineered a supervised classification pipeline using `XGBClassifier` to predict customer term deposit subscription success following targeted financial marketing initiatives.
+* Leveraged automated target encoding and detailed feature importance tracking to isolate key macroeconomic and demographic drivers, such as employment variation rates.
 
-# [Project 4: Telecommunications Customer Churn Analysis](https://github.com/yani-iben/Customer-Churn-Decision-Tree-Analysis)
+###  [High-Value Customer Behavioral Clustering](https://github.com/yani-iben/online-retail-clustering-practice)
+* **Core Stack:** Python, K-Means Clustering, Scikit-Learn, RFM Segmentation Analysis
+* Formulated an end-to-end customer segmentation workflow utilizing **525,000+ raw transactional records** from the UCI Machine Learning Repository.
+* Designed rigorous outlier isolation models to isolate anomalous high-net-worth behavior, applying targeted K-Means clustering on distinct customer tiers to outline actionable marketing psychographics.
 
-This dataset simulates customer behavior for a fictional telecommunications company. It contains demographic information, account details, services subscribed to, and whether the customer ultimately churned (stopped using the service) or not. The data is synthetically generated but designed to reflect realistic patterns often found in telecom churn scenarios.
+###  [Telecommunications Customer Churn & Information Gain](https://github.com/yani-iben/Customer-Churn-Decision-Tree-Analysis)
+* **Core Stack:** Python, Decision Trees, Entropy / Information Gain Analysis
+* Synthesized an operational churn classifier using customized Decision Tree models to determine subscriber retention thresholds.
+* Calculated feature importance based on localized entropy reductions, identifying the critical customer account properties that directly prompt service cancellations.
 
-The purpose of the project is to predict whether a customer will churn or not. THe main model used was a Decision Tree model. In addition, the project includes feature importance analysis based on information gain.
+---
 
-* Utilized a Decision Tree model within Python
+## Sentiment Analysis & Media Analytics
 
-# [Project 5: Hotel Relational Database](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
+### [TV Show Script Sentiment & Predictive Ratings Pipeline](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
+* **Core Stack:** Python, Random Forest, Natural Language Processing (NLP), Sentiment & Emotion Modeling
+* Extracted and tokenized complete television script text corpora to model multi-dimensional audience emotional responses beyond basic positive/negative polarity.
+* Trained Random Forest and time-series regression models to predict IMDb rating spikes, discovering that suspense and specific emotional cues mathematically dictate overall viewer satisfaction scores.
 
-- **Relational Database Creation for Wilted Lotus**  
-  - Designed and implemented a relational database in SQL to support hotel operations and analytics.  
-  - Developed tables for key entities such as `Guest_Stay`, `Cleans`, `Orders`, `Supplier`, and `StaysIn` to manage data efficiently.  
-  - Established relationships between entities using primary and foreign keys, ensuring data integrity.
+---
 
-- **Executed Queries to Identify and Resolve Business Problems**  
-  - Queried customer feedback scores to identify seasonal trends in guest satisfaction.  
-  - Analyzed feedback from repeat versus one-time customers to assess the impact of service quality on retention.  
-  - Investigated the effect of late room cleaning on housekeeping scores by analyzing cleaning times.  
-  - Evaluated supply chain processes by analyzing order times and delivery delays to identify inefficiencies.  
-  - Identified specific suppliers contributing to delivery delays and proposed solutions.
+## Core Database Architecture & Global Visualization
 
-- **Data Visualization Using R**  
-  - Created bar charts to illustrate seasonal fluctuations in feedback scores across different service categories.  
-  - Utilized boxplots to compare feedback scores between repeat and one-time guests, highlighting trends.  
-  - Interpreted visualizations to support data-driven recommendations for operational improvements.  
-  - Integrated insights from visual analysis with SQL query results for comprehensive reporting.  
+### [Relational Database Engineering & Operational Query Tuning](https://github.com/yani-iben/Hotel-Customer-Satisfaction/tree/main)
+* **Core Stack:** SQL (PostgreSQL/MySQL), R (ggplot2), Relational Schema Design
+* Architected a clean, fully normalization-compliant relational database schema for a hospitality enterprise, implementing tight primary/foreign key cascading integrity rules.
+* Authored complex analytical queries to expose supply chain delays, trace housekeeping inefficiencies, and correlate guest feedback trends against repeat customer metrics.
 
-# [Project 6: WDI Data Visualization Project](https://github.com/yani-iben/WDI-Healthcare)
-
-This project was a semester long project focusing on healthcare and education spending across OECD countries. Along with the data visualization aspect, this project involved final presentations as well as a research report. Ultimately, my time incorporated analysis from R to develop a policy recommendation regarding allocating healthcare spending to boost survival rate.
-
-# [Project 7: TV Show Descriptive and Predictive Analytics](https://github.com/yani-iben/TV-Show-Predictive-Modeling/tree/main)
-
-This project was inspired by the need to understand audience engagement with Emily in Paris and inform storytelling decisions for its upcoming season. By analyzing the show's transcripts and audience emotions, we aimed to uncover the factors influencing satisfaction and predict viewer ratings. Through advanced analytics and predictive modeling, the project provided actionable insights to guide the creative process.
-
-- **Analyzed Show Transcripts for Sentiment and Themes**
-  - Conducted sentiment analysis and topic modeling on Emily in Paris show transcripts to identify dominant themes and sentiments.
-  - Generated a Word Cloud to visualize recurring concepts and key emotional drivers.
-  - Performed emotional analysis to overcome limitations of traditional sentiment analysis, uncovering nuanced audience responses.
-
-- **Developed Predictive Models to Inform Ratings**
-  - Built and evaluated predictive models, including time series regression and Random Forest, to predict IMDb ratings based on   emotional data.
-  - Identified that fear and suspense drove higher ratings, while disgust indicated conflict and joy, trust, and surprise shaped overall satisfaction.
-  - Optimized Random Forest as the most accurate model, demonstrating strong predictive performance.
-
-- **Visualized Emotional and Thematic Insights**
-  - Designed visualizations, such as emotion breakdowns and Word Clouds, to communicate findings to non-technical stakeholders.
-  - Mapped sentiment and emotional trends over time to highlight changes in viewer perceptions.
-  - Combined visual insights with predictive analytics to support actionable recommendations for season 5 storytelling.
- 
-
-
+###  [OECD Healthcare Allocation & Visual Policy Project](https://github.com/yani-iben/WDI-Healthcare)
+* **Core Stack:** R Programming, World Development Indicators (WDI) Dataset, Visual Analysis
+* Conducted a comprehensive longitudinal study examining healthcare and educational spending across OECD nations.
+* Transformed multi-variate macroeconomic indices into digestible visual data narratives in R, producing policy briefs aimed at boosting country-wide medical survival rates.
